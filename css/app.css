@@ -1,0 +1,50 @@
+.mainheader {padding:5px 0 0px 0; 
+  background-color:#CCE5FF; 
+  color:#663300; 
+  text-align:center; 
+  font-family: 'Bebas Neue', cursive; } 
+
+  h1 {
+    font-family: 'Bebas Neue', cursive;
+  }
+
+.wholebody {background-color: #FFE5CC;
+}
+
+.bodycopy {
+  color: #663300;
+  font-size: larger;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.funnynames {
+  background-color: #CCE5FF;
+  color: #663300;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.copyright {
+  background-color: #CCE5FF;
+  color: #663300;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+.graphics {
+  align-items: center;
+}
+
+p {
+  color: #663300;
+}
+
+.featureimage {
+  margin-top: 10px;
+}
+
+h3 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+h4 {font-family: 'Libre Baskerville', serif;}
